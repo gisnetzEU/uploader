@@ -1,0 +1,4 @@
+node_modules/
+./gitinore
+/node_modules
+.history
